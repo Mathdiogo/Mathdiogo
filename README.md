@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 <div>
   <a href="https://github.com/Mathdiogo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathdiogo&hide_progress=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathdiogo&hide_progress=true&theme=dark"/>
    <! --<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mathdiogo&show_icons=true"/>
   </a>
 </div>
