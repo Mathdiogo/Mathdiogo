@@ -1,4 +1,16 @@
-## Hi there!!! 👋 I'm Matheus Diogo Teixeira
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Mathdiogo&show_icons=true&title_color=6f42c1&text_color=ffffff&icon_color=6f42c1&bg_color=1e1e2e&cache_seconds=2300" alt="ilustração do status do github">
+
+### Olá, meu nome é Matheus Diogo!
+
+<img src="https://img.shields.io/static/v1?label=Overview&message=Matheus%20Diogo&color=1e1e2e&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+
+<p>Trabalhando na Bosch<br/>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
