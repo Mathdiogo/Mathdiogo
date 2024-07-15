@@ -6,7 +6,8 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Matheus%20Diogo&color=1e1e2e&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Trabalhando na Bosch<br/>
+<p>Trabalhando atualmente com desenvolvimento de software na engenharia experimental da Bosch<br/>
+<p>Currently working in software development at Bosch's experimental engineering department.</p><br/>
 <br>
 <br>
 <br>
