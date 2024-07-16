@@ -1,6 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Mathdiogo&show_icons=true&title_color=6f42c1&text_color=ffffff&icon_color=6f42c1&bg_color=1e1e2e&cache_seconds=2300" alt="ilustração do status do github">
 
-[![Mathdiogo](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathdiogo&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Mathdiogo](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathdiogo&hide=html&layout=compact&title_color=6f42c1&text_color=ffffff&icon_color=6f42c1&bg_color=1e1e2e)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Olá, meu nome é Matheus Diogo!
 
