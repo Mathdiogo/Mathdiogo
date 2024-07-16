@@ -10,9 +10,6 @@
 <p>Currently working in software development at Bosch's experimental engineering department.</p><br/>
 <br>
 <br>
-<br>
-<br>
-<br>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
