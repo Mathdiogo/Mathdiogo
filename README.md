@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=Matheus%20Diogo&color=1e1e2e&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <p>
-Sou desenvolvedor <strong>Full Stack</strong> e estudante de <strong>Engenharia da Computação</strong>. Minha trajetória começou na Engenharia Mecânica, mas após muito autoconhecimento, decidi seguir minha verdadeira paixão: a tecnologia. Comecei estudando programação por conta própria, fiz freelas com WordPress e logo conquistei meu estágio na Bosch Sorocaba, onde atuei com automações em Python e VBA.  
+Sou desenvolvedor Pleno <strong>Full Stack</strong> e estudante de <strong>Engenharia da Computação</strong>. Minha trajetória começou na Engenharia Mecânica, mas após muito autoconhecimento, decidi seguir minha verdadeira paixão: a tecnologia. Comecei estudando programação por conta própria, fiz freelas com WordPress e logo conquistei meu estágio na Bosch Sorocaba, onde atuei com automações em Python e VBA.  
 </p>
 
 <p>
