@@ -1,9 +1,11 @@
 <div align="center">
 
-![Matheus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mathdiogo&show_icons=true&title_color=6f42c1&text_color=ffffff&icon_color=6f42c1&bg_color=1e1e2e&cache_seconds=86400&rank_icon=github)
+<!-- Stats gerais via github-profile-summary-cards (mais estável que o vercel público) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mathdiogo&theme=tokyonight" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mathdiogo&theme=tokyonight" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mathdiogo&theme=tokyonight" height="180"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathdiogo&hide=html&layout=compact&title_color=6f42c1&text_color=ffffff&icon_color=6f42c1&bg_color=1e1e2e&cache_seconds=86400)
-
+<!-- Streak de commits -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=Mathdiogo&theme=tokyonight&hide_border=true&background=1e1e2e&ring=6f42c1&fire=6f42c1&currStreakLabel=6f42c1)](https://git.io/streak-stats)
 
 </div>
