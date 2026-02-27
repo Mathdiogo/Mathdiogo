@@ -1,12 +1,16 @@
 <div align="center">
 
-<!-- Stats gerais via github-profile-summary-cards (mais estável que o vercel público) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mathdiogo&theme=tokyonight" height="180"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mathdiogo&theme=tokyonight" height="180"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mathdiogo&theme=tokyonight" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mathdiogo&theme=tokyonight" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mathdiogo&theme=tokyonight" height="170"/>
 
-<!-- Streak de commits -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mathdiogo&theme=tokyonight&hide_border=true&background=1e1e2e&ring=6f42c1&fire=6f42c1&currStreakLabel=6f42c1)](https://git.io/streak-stats)
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mathdiogo&theme=tokyonight&hide_border=true&background=1e1e2e&ring=6f42c1&fire=6f42c1&currStreakLabel=6f42c1&card_width=600)](https://git.io/streak-stats)
+
+<br/>
+
+<img src="https://ghchart.rshah.org/6f42c1/Mathdiogo" alt="Contribution Graph" width="720"/>
 
 </div>
 
