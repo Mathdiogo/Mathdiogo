@@ -27,7 +27,7 @@ Sou desenvolvedor Pleno <strong>Full Stack</strong> e estudante de <strong>Engen
 </p>
 
 <p>
-Hoje trabalho como PO da playtruco e continuo como <strong>Full Stack Developer</strong> pleno na <strong>PlayTruco</strong>, um jogo de truco online com apostas em tempo real, utilizando <strong>TypeScript, React.js, Node.js, NestJS e Socket.IO</strong>. Cada desafio enfrentado até aqui reforçou minha capacidade de adaptação, resiliência e aprendizado contínuo.
+Hoje trabalho como PO da <strong>PlayTruco</strong> e continuo como <strong>Full Stack Developer</strong> pleno, um jogo de truco online com apostas em tempo real, utilizando <strong>TypeScript, React.js, Node.js, NestJS e Socket.IO</strong>. Cada desafio enfrentado até aqui reforçou minha capacidade de adaptação, resiliência e aprendizado contínuo.
 </p>
 
 ---
